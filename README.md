@@ -2,7 +2,7 @@
 
 ![CI/CD Pipeline](https://github.com/USERNAME/REPO_NAME/actions/workflows/ci.yml/badge.svg)
 
-클라우드 네이티브 아키텍처의 핵심 개념을 적용하여 개발한 MSA 기반 URL 단축 서비스입니다.
+클라우드 네이티브 아키텍처의 핵심 개념을 적용하여 개발한 MSA 기반 URL 단축 서비스.
 
 ## 🚀 프로젝트 개요
 
